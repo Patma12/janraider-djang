@@ -1,0 +1,2 @@
+# janraider-django
+โปรเจค django 
